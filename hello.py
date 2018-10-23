@@ -2,6 +2,6 @@
 print("Hello World")
 # git & cloned from github
 print("now pushed from CMD lin")
-# test before moving to REPOS directory
-print("test from Anscombes folder")
+# test after not moving to REPOS directory
+print("test not from REPOS folder")
 
